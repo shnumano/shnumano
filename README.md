@@ -1,4 +1,12 @@
-### Hi there 👋
+I'm a graduate student in graduate school of frontier biosciences, Osaka University.
+I major computational (social) neuroscience. My website is [here (still under construction...)](https://shnumano.github.io).
+
+## Contacts
+
+Here are my accounts:
+- Twitter : [@shnumano](https://twitter.com/shnumano)
+- GitHub : https://github.com/shnumano/
+- Mail : shotaro.numano [at] gmail.com
 
 <!--
 **shnumano/shnumano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
